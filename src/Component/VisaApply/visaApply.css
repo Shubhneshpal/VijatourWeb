@@ -1,0 +1,543 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto&family=Roboto+Slab&display=swap');
+
+
+.ViaApply_Header .image-section{
+    display: none;
+}
+.ViaApply_Header .css-13cymwt-control {  
+    min-height: 48px !important;
+    /* border-radius: 0px; */
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;   
+}
+.ViaApply_Header .css-t3ipsp-control {
+    min-height: 48px !important; 
+}
+
+
+.ViaApply_Header .dropdown-btn {
+    padding-bottom: 10px;
+}
+.CountryName {
+    text-align: center;
+    font-size: 1.9rem;
+    font-weight: 600;
+    margin: 3rem 0rem 2rem 0rem;
+}
+
+.react-datepicker__day-name, .react-datepicker__day, .react-datepicker__time-name {
+    width: 2.7rem !important;    
+    margin: 0.266rem !important;
+}
+.react-datepicker__month {
+    margin: 0.5rem !important;
+   
+}
+.react-datepicker__header {
+    padding: 20px 30px !important;
+    
+}
+.react-datepicker__month-container {
+    height: 20rem !important;
+}
+.quantity-picker {
+    padding: 5px 4px;
+    background-image: linear-gradient(-106deg, #fbc393 0%, #f5576ce3 100%);
+    width: 9rem;
+    text-align: center;
+    border-radius: 17px;
+}
+.quantity-picker button {
+    border: none !important;
+    margin: 0 15px;
+    font-size: 23px;
+    font-weight: 500;
+    background-color: transparent !important;
+   
+}
+.modal-dialog .modal-content{
+    margin-top: 5rem !important;
+}
+
+.quantity-picker span {
+    font-size: 21px;
+    font-weight: 500;
+}
+.visaCard1 .img-content {   
+    top: 82%;   
+    padding: 8px 21px;    
+}
+.visaCard_content p span{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.visaCard_content p{
+    margin-top: 1rem;
+    font-weight: 400;
+}
+.visaCard_content h4{
+    font-weight: 500;
+}
+.incree-decreeButton {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 1rem;
+}
+.selected-date {
+    font-size: 18px;
+    margin-top: 1rem;
+}
+.placeholder-text {
+    font-weight: 600;
+    color: hotpink;
+    font-size: 18px;
+}
+.form-check-input {
+    width: 1.7em;
+    height: 1.7em;   
+    border:1px solid #00000042 !important;
+    margin-left: 0rem !important;
+}
+    
+.checkTotalAmount label{
+    margin-left: 38px;
+    margin-top: 0.3rem;
+}
+
+
+
+.quantity_text {
+    font-size: 24px;
+    margin-right: 5px;
+    font-weight: 400;
+    font-family: "PT Serif", serif;
+}
+.btn55 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 21px;
+}
+.btn55 button {
+    border: none !important;
+    padding: 7px 10px;
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+    border-radius: 10px;
+}
+.btn55 button:hover{
+    background-image: linear-gradient(-106deg, #f093fb 0%, #f5576c 100%);
+}
+
+/* .ripe-malinka-gradient {
+    background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+} */
+
+/* Registration Form CSS */
+
+.login_wrap{
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    padding: 15px 0;
+    background: #F8FAFD;
+}
+
+.btn56 {
+    background: #EC3C3F;
+    padding: 10px 15px;
+    letter-spacing: 0.06em;
+    border-radius: 3px;
+    text-align: center;
+    transition: all ease 0.4s;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    width: 100%;
+    border: none;
+  }
+  .btn56:hover{
+    background-color: white;
+    color: #EC3C3F;
+  }
+  /* .login_right form .btn {
+    width: 100%;
+} */
+  
+  .solution_area01 {    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.05);
+    border-radius: 4px;
+    margin: 0 auto;
+    max-width: 100% !important;
+    transition: all ease 0.4s;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100%;
+}
+
+ .solution_area01 ul{
+    text-align: left;
+    margin: 35px 22px 40px;
+    max-width: 385px;
+ }
+ .solution_area01 figure img{
+    max-width: 100%;
+    height: auto;
+    margin: 1rem 0;
+ } */
+
+  .solution_area01 ul li{
+    list-style: none;
+    text-align: start !important;
+    /* background-image: url("../../img/check.svg"); */
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding:  0 0 0 35px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin: 0 0 30px;
+ }
+ .modal-body {
+    padding: 0rem !important;
+}
+.modal-footer{
+    padding: 5px 16px 8px 16px !;
+}
+
+
+
+
+ .input_group{
+    display: flex;
+    flex-direction: row;
+    
+ }
+ .loginHead{
+    position: relative;
+ }
+
+ .loginHead h2:after {
+    margin: -12px 0;
+    display: block;
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 30px;
+    height: 1.5px;
+    background: #fff;
+}
+.right_card{
+    padding-right: 0px !important;
+}
+.left_card{
+    padding-left: 0px !important;
+}
+.googleLogin11{
+    padding: 0px 41px 0px 41px;
+    background: #0A1C31;
+    min-height: 100%;
+    color: #fff;
+}
+.googleLogin11 p{
+    padding-top: 22px;
+}
+.googleLogin p {
+    padding-top: 12px;
+    margin-bottom: 13px;
+}
+.googleLogin{
+    padding: 0px 41px 10px 41px;
+    background: #0A1C31;
+    min-height: 100%;
+    color: #fff;
+}
+.modal-header  .btn-close i{
+    color: white !important;
+}
+.modal-header{
+    border-bottom: none !important;
+}
+.checkRow{
+    margin: 18px 0;
+}
+.input_group input{
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 3px 11px;
+    border-radius: 5px; 
+    outline: none !important; 
+    box-shadow: none !important; 
+    background-color: white !important;
+    border-radius: 6px !important; 
+    font-size: 14px !important;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #212529 !important;
+}
+/* .input_group input {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 5px 11px;
+    border-radius: 5px;
+    outline: none !important;
+    box-shadow: none !important;
+    background-color: white;
+    border-radius: 6px !important;
+} */
+.inputCheck{
+    margin-left: -11px;
+}
+.inputCheck input{
+    margin-right: 9px;
+    padding: 8px;
+}
+.inputCheck label{
+    font-size: 15px;
+    font-weight: 400;
+}
+.forgat a{
+    color: white !important;
+}
+.googleLogin form .btn{
+    width: 100%;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+}
+.googleLogin form .btn:hover{
+    background-color: white !important;
+    color: red !important;
+}
+/* .modal-header */
+.bottomLi{
+    position: relative;
+}
+.bottomLine{
+    text-align: center;
+    margin: 10px 0;
+    position: relative;
+}
+.bottomLine span{
+    display: inline-block;
+    background: #0A1C31;
+    padding: 0 15px;
+    z-index: 1;
+    position: relative;
+    font-size: 15px;
+    font-weight: 500;
+
+}
+.bottomLine::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.2);
+    top: 50% !important;
+    display: block;
+}
+.signupButtons{
+    display: flex;
+    flex-direction: column;
+}
+.signupButtons button{
+    padding: 8px 0 !important;
+    background-color: #0A1C31 !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;    
+}
+
+.signupButtons a{
+    padding: 10px 0 !important;
+    background-color: #0A1C31 !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+.signupButtons button img{
+    margin: 0 10px;
+}
+.signupButtons button:hover,.signupButtons a:hover{
+    background-color: white !important;
+    color: red !important;
+}
+.provacyPage p{   
+    font-size: 13px;
+    text-align: center;
+    line-height: 22px;    
+    color: rgba(255, 255, 255, 0.6);
+    margin-bottom: 6px !important;
+}
+.provacyPage p a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.6);
+}
+.provacyPage p a:hover{
+    color: red;
+}
+
+
+
+
+
+
+.inputCheck label {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+/* ********** */
+
+.input_group {
+    display: flow !important;
+    flex-direction: row;
+}
+.heading55 h5{
+    color: #EC3C3F;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 12px;
+    text-align: center;
+}
+.border_bottom {
+    border-bottom: 1px solid #00000063;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    width: 100% !important;
+    /* margin: 1rem 1rem; */
+}
+.border_bottom01 {
+    border-bottom: 1px solid #fff;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    width: 100% !important;
+    
+}
+.border_top{
+    border-bottom: 1px solid #00000063;
+    margin-bottom: 1rem;
+    width: 100% !important;
+}
+.cost122{
+    display: flex;
+    justify-content: space-between;
+}
+.visa_colorBox {
+    background: #1a2e61;
+    border-radius: 8px;
+    padding: 1.5rem;
+    color: white;
+    font-family: "PT Serif", serif;
+}
+.cost122 h5 {
+    font-size: 20px;
+    margin-bottom: 0rem !important;
+    color: #fff;
+    letter-spacing: 0;
+    font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.slectDate001 h4{
+    margin-bottom: 14px;
+    color: black;
+    font-weight: 400;
+    font-family: "PT Serif", serif;
+}
+
+.slectDate25 {
+    background-color: #f2f2f7 !important;
+    padding: 2rem 2rem ;
+    border-radius: 8px;
+}
+.slectDate25 h4 {
+    margin-bottom: 14px;
+    color: black;
+    font-weight: 400;
+    font-family: "PT Serif", serif;
+}
+.cost122 h5 svg {
+    vertical-align: baseline;
+    font-size: 16px !important;
+}
+.labeCheck{
+    color: black;
+    font-weight: 400;
+    font-family: "PT Serif", serif;
+}
+
+/* media query start */
+
+@media screen and (max-width:999px) {
+    .input_group .fName input{
+        margin-bottom: 11px;
+    }
+    .input_group .lName input{
+        margin-top: 11px;
+    }    
+}
+
+.style01 {
+    color: tomato;
+    font-size: 1rem;
+    padding-top: 5px !important;
+}
+
+/* media_query start */
+@media screen and (max-width:1199px) {
+    .inputCheck input {
+        margin-right: 6px;
+        padding: 7px;
+    }
+    .inputCheck label {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .forgat a {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:999px) {
+    .right_card{
+        padding-left: 0px !important;
+    }
+    .left_card{
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+}
+
+@media screen and (max-width:789px) {
+    .solution_area01 ul li {        
+        padding: 0 0 0 30px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;        
+        margin: 0 0 30px;
+    }
+    .solution_area01 ul {        
+        margin: 35px 0px 40px;
+        
+    }
+    .solution_area01{
+        padding: 60px;   
+        
+      } 
+      .right_card{
+        padding-left: 0px !important;
+    }
+    
+}

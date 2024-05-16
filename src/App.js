@@ -1,23 +1,25 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Home from './Component/Home/Home';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import VisaApplyPage from './Component/VisaApply/VisaApplyPage';
+// import LoginForm from './Component/StartApplication/LoginForm';
+import TravelerDetails from './Component/StartApplication/TravelerDetails';
+import Document from './Component/StartApplication/SubmitDocument/Document';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      
+     <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home/>}/>         
+        <Route path="/visatour/:id" element={<VisaApplyPage />} />       
+        <Route path="/TravelDetails" element={<TravelerDetails/>} />       
+        <Route path="/document" element={<Document/>} />       
+        
+      </Routes>
+    </BrowserRouter> 
     </div>
   );
 }
