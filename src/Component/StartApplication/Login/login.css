@@ -1,0 +1,21 @@
+
+.style01 {
+    color: tomato;
+    font-size: 1rem;
+    padding-top: 5px !important;
+}
+.btn-close {
+    color: white !important;
+    background-color: white !important;
+    margin-right: -2.2rem !important;
+    margin-top: 2px !important;
+}
+.input_group .inputPass{
+    width: 95% !important;
+}
+.fName .inputPass55{
+    width: 90% !important;
+}
+.lName .inputPass55{
+    width: 90% !important;
+}

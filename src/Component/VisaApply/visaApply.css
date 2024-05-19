@@ -85,6 +85,9 @@
     justify-content: flex-start;
     margin-top: 1rem;
 }
+/* .incree-decreeButton {
+   
+} */
 .selected-date {
     font-size: 18px;
     margin-top: 1rem;
@@ -106,12 +109,31 @@
     margin-top: 0.3rem;
 }
 
+.visaCard_content {
+    margin-bottom: 2rem;
+}
+.collumPadding{
+    padding-right: 19px !important;
+    padding-left: 19px !important;
+}
+.accordian11 {
+    margin-bottom: 1rem !important;
+}
 
+.visaCard_content h4 {
+    background-color: #f2f2f7;
+    padding: 15px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
 
 .quantity_text {
-    font-size: 24px;
+    /* font-size: 24px;
     margin-right: 5px;
-    font-weight: 400;
+    font-weight: 400; */
     font-family: "PT Serif", serif;
 }
 .btn55 {
@@ -132,10 +154,6 @@
 .btn55 button:hover{
     background-image: linear-gradient(-106deg, #f093fb 0%, #f5576c 100%);
 }
-
-/* .ripe-malinka-gradient {
-    background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
-} */
 
 /* Registration Form CSS */
 
@@ -289,17 +307,7 @@
     line-height: 1.5;
     color: #212529 !important;
 }
-/* .input_group input {
-    display: block;
-    width: 100%;
-    text-align: left;
-    padding: 5px 11px;
-    border-radius: 5px;
-    outline: none !important;
-    box-shadow: none !important;
-    background-color: white;
-    border-radius: 6px !important;
-} */
+
 .inputCheck{
     margin-left: -11px;
 }
@@ -477,23 +485,13 @@
     font-weight: 400;
     font-family: "PT Serif", serif;
 }
-
-/* media query start */
-
-@media screen and (max-width:999px) {
-    .input_group .fName input{
-        margin-bottom: 11px;
-    }
-    .input_group .lName input{
-        margin-top: 11px;
-    }    
-}
-
 .style01 {
     color: tomato;
     font-size: 1rem;
     padding-top: 5px !important;
 }
+
+
 
 /* media_query start */
 @media screen and (max-width:1199px) {
@@ -508,6 +506,13 @@
     .forgat a {
         font-size: 14px;
     }
+    .datePIcker{
+        display: flex;
+        justify-content: center;
+    }  
+    .image-section h2{
+        font-size: 1.2rem;
+    } 
 }
 
 @media screen and (max-width:999px) {
@@ -517,6 +522,40 @@
     .left_card{
         padding-left: 0px !important;
         padding-right: 0px !important;
+    }
+    .datePIcker{
+        display: flex;
+        justify-content: center;
+    } 
+    .input_group .fName input{
+        margin-bottom: 11px;
+    }
+    .input_group .lName input{
+        margin-top: 11px;
+    }
+    .card {
+        margin-bottom: 19px;
+    }
+}
+@media screen and (max-width:820px) {
+    .datePIcker{
+        display: flex;
+        justify-content: center;
+    }
+    .react-datepicker__day-name, .react-datepicker__day, .react-datepicker__time-name {
+        width: 1.7rem !important;
+        margin: 0.266rem !important;
+    }
+    .css-b62m3t-container {
+        width: 49%;
+    }
+    .header_Img img {
+        height: 350px;
+        padding: 8px 24px;        
+    }
+    
+    .image-section h2{
+        font-size: 1.1rem;
     }
 }
 
@@ -539,5 +578,37 @@
       .right_card{
         padding-left: 0px !important;
     }
+    .nav {       
+        justify-content: center;
+    }
     
+}
+
+@media screen and (max-width:599px) {
+    .nav {       
+        justify-content: center;
+    }
+    .main-content {
+        margin-top: 5.4rem;
+    }
+    .main-content h2{
+        font-size: 25px !important;
+    }
+    
+}
+
+@media screen and (max-width:400px) {
+    .nav {       
+        justify-content: center;
+    } 
+    .header_Img img {
+        height: 200px;
+        padding: 8px 15px;
+    }  
+    .signupButtons .btn {
+        font-size: .5rem;
+    }
+    .input_group .fName input {
+        width: 92%;
+    }
 }

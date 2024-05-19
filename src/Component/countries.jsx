@@ -13,7 +13,7 @@ function dateHelper(days) {
     //   date:new Date()
     // },
     {
-      id: Math.random(),
+      id: 1,
       name: "Angola",
       pic:  "/images/angola.jpg",
       price: "7000",
@@ -24,7 +24,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 2,
       name: "Antigua and Burbuda",
       pic: "/images/antigua-burbuda.jpg",
       price: "10800",
@@ -35,7 +35,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 3,
       name: "Argentina",
       pic: "/images/argentina.jpg",
       price: "19000",
@@ -46,7 +46,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 4,
       name: "Armenia",
       pic: "/images/armenia.jpg",
       price: "1600",
@@ -57,7 +57,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport", "Hotel Bookings", "Bank Statement"],
     },
     {
-      id: Math.random(),
+      id: 5,
       name: "Australia",
       pic: "/images/australia.jpg",
       price: "4500",
@@ -74,7 +74,7 @@ function dateHelper(days) {
       ],
     },
     {
-      id: Math.random(),
+      id: 6,
       name: "Austria",
       pic: "./images/austria.jpg",
       price: "4500",
@@ -85,7 +85,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 7,
       name: "Azerbaijan",
       pic: "/images/azerbaijan.jpg",
       price: "10000",
@@ -96,7 +96,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 8,
       name: "Bahrain",
       pic: "/images/bahrain.jpg",
       price: "3900",
@@ -107,7 +107,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 9,
       name: "Bangladesh",
       pic: "/images/bangladesh.jpg",
       price: "3900",
@@ -132,7 +132,7 @@ function dateHelper(days) {
     //   date: new Date()
     // },
     {
-      id: Math.random(),
+      id: 10,
       name: "Belgium",
       pic: "/images/belgium.jpg",
       price: "4500",
@@ -143,7 +143,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 12,
       name: "Benin",
       pic: "/images/benin.jpg",
       price: "6800",
@@ -154,7 +154,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 13,
       name: "Bhutan",
       pic: "/images/bhutan.jpg",
       price: "11200",
@@ -165,7 +165,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport", "Hotel Bookings"],
     },
     {
-      id: Math.random(),
+      id: 14,
       name: "Brazil",
       pic: "/images/brazil.jpg",
       price: "10800",
@@ -176,7 +176,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport", "Bank Statement", "Flight Bookings"],
     },
     {
-      id: Math.random(),
+      id: 15,
       name: "Burkina Faso",
       pic: "/images/burkina-faso.jpg",
       price: "8400",
@@ -187,7 +187,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 16,
       name: "Cambodia",
       pic: "/images/cambodia.jpg",
       price: "3900",
@@ -198,7 +198,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 17,
       name: "Canada",
       pic: "/images/canada.jpg",
       price: "25000",
@@ -209,7 +209,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport", "Bank Statement", "Flight Bookings", "ITR"],
     },
     {
-      id: Math.random(),
+      id: 18,
       name: "Chile",
       pic: "/images/chile.jpg",
       price: "15300",
@@ -220,7 +220,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 19,
       name: "China",
       pic: "/images/china.jpg",
       price: "7500",
@@ -231,7 +231,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 20,
       name: "Colombia",
       pic: "/images/colombia.jpg",
       price: "14800",
@@ -256,7 +256,7 @@ function dateHelper(days) {
     //   date:new Date()
     // },
     {
-      id: Math.random(),
+      id: 21,
       name: "Costa Rica",
       pic: "/images/costa-rica.jpg",
       price: "4800",
@@ -267,7 +267,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 22,
       name: "Cuba",
       pic: "/images/cuba.jpg",
       price: "9500",
@@ -278,7 +278,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 23,
       name: "Cyprus",
       pic: "/images/cyprus.jpg",
       price: "4500",
@@ -289,7 +289,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 24,
       name: "Czechia",
       pic: "/images/czechia.jpg",
       price: "4500",
@@ -300,7 +300,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 25,
       name: "Eqypt",
       pic: "/images/egypt.jpg",
       price: "4200",
@@ -311,7 +311,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 26,
       name: "Ethiopia",
       pic: "/images/ehtiopia.jpg",
       price: "8300",
@@ -329,7 +329,7 @@ function dateHelper(days) {
     //   date:new Date()
     // },
     {
-      id: Math.random(),
+      id: 27,
       name: "Equitorial Guinea",
       pic: "/images/equitorial-guinea.jpg",
       price: "11500",
@@ -340,7 +340,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 28,
       name: "Estonia",
       pic: "/images/estonia.jpg",
       price: "4500",
@@ -351,7 +351,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 29,
       name: "Fiji",
       pic: "/images/fiji.jpg",
       tag: "Get Visa response on time or 100% return",
@@ -362,7 +362,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 30,
       name: "Finland",
       pic: "/images/finland.jpg",
       price: "4500",
@@ -373,7 +373,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 31,
       name: "France",
       pic: "/images/france.jpg",
       price: "4500",
@@ -384,7 +384,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 32,
       name: "Georgia",
       pic: "/images/georgia.jpg",
       price: "8000",
@@ -401,7 +401,7 @@ function dateHelper(days) {
       ],
     },
     {
-      id: Math.random(),
+      id: 33,
       name: "Germany",
       pic: "/images/germany.jpg",
       price: "4500",
@@ -412,7 +412,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 34,
       name: "Ghana",
       pic: "/images/ghana.jpg",
       price: "12500",
@@ -423,7 +423,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 35,
       name: "Greece",
       pic: "/images/greece.jpg",
       price: "4500",
@@ -434,7 +434,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id:36,
       name: "Guinea",
       pic: "/images/guinea.jpg",
       price: "8900",
@@ -445,7 +445,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 37,
       name: "Guyana",
       pic: "/images/guyana.jpg",
       price: "1100",
@@ -456,7 +456,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 38,
       name: "Hong Kong",
       pic: "/images/hong-kong.jpg",
       price: "1700",
@@ -467,7 +467,7 @@ function dateHelper(days) {
       docs: ["Passport"],
     },
     {
-      id: Math.random(),
+      id: 39,
       name: "Hungary",
       pic: "/images/hungary.jpg",
       price: "4500",
@@ -478,7 +478,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 40,
       name: "Indonesia",
       pic: "/images/indonesia.jpg",
       price: "6000",
@@ -489,7 +489,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 41,
       name: "Israel",
       pic: "/images/israel.jpg",
       price: "12800",
@@ -507,7 +507,7 @@ function dateHelper(days) {
       ],
     },
     {
-      id: Math.random(),
+      id: 42,
       name: "Italy",
       pic: "/images/italy.jpg",
       price: "4500",
@@ -518,7 +518,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 43,
       name: "Japan",
       pic: "/images/japan.jpg",
       price: "3000",
@@ -536,7 +536,7 @@ function dateHelper(days) {
       ],
     },
     {
-      id: Math.random(),
+      id: 44,
       name: "Jordan",
       pic: "/images/jordan.jpg",
       price: "6200",
@@ -547,7 +547,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 45,
       name: "Kenya",
       pic: "/images/kenya.jpg",
       price: "4800",
@@ -558,7 +558,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 46,
       name: "Kyrgyzstan",
       pic: "/images/kyrgyzstan.jpg",
       price: "17300",
@@ -569,7 +569,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 47,
       name: "Laos",
       pic: "/images/laos.jpg",
       price: "4500",
@@ -580,7 +580,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 48,
       name: "Lebanon",
       pic: "/images/lebanon.jpg",
       price: "10700",
@@ -591,7 +591,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 49,
       name: "Liechtenstein",
       pic: "/images/liechtenstein.jpg",
       price: "4500",
@@ -602,7 +602,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 50,
       name: "Madagascar",
       pic: "/images/madagascar.jpg",
       price: "2800",
@@ -613,7 +613,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 51,
       name: "Malaysia",
       pic: "/images/malaysia.png",
       price: "2500",
@@ -631,7 +631,7 @@ function dateHelper(days) {
     //   date:new Date()
     // },
     {
-      id: Math.random(),
+      id: 52,
       name: "Malta",
       pic: "/images/malta.jpg",
       price: "4500",
@@ -663,7 +663,7 @@ function dateHelper(days) {
     //   date:new Date()
     // },
     {
-      id: Math.random(),
+      id: 53,
       name: "Mongolia",
       pic: "/images/mongolia.jpg",
       price: "1450",
@@ -674,7 +674,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id:54,
       name: "Morocco",
       pic: "/images/morocco.jpg",
       price: "7800",
@@ -685,7 +685,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 55,
       name: "Mozambique",
       pic: "/images/mozambique.jpg",
       price: "14500",
@@ -703,7 +703,7 @@ function dateHelper(days) {
     //   date:new Date()
     // },
     {
-      id: Math.random(),
+      id: 56,
       name: "Netherlands",
       pic: "/images/netherlands.jpg",
       price: "4500",
@@ -714,7 +714,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 57,
       name: "New Zealand",
       pic: "/images/new-zealand.jpg",
       price: "16500",
@@ -725,7 +725,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport", "Bank Statement", "ITR", "Hotel Bookings"],
     },
     {
-      id: Math.random(),
+      id: 58,
       name: "Norway",
       pic: "/images/norway.jpg",
       price: "4500",
@@ -736,7 +736,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 59,
       name: "Oman",
       pic: "/images/oman.jpg",
       price: "8000",
@@ -747,7 +747,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 60,
       name: "Papua Guinea",
       pic: "/images/papua-guinea.jpg",
       price: "6500",
@@ -765,7 +765,7 @@ function dateHelper(days) {
     //   date:new Date()
     // },
     {
-      id: Math.random(),
+      id: 60,
       name: "Philippines",
       pic: "/images/philippines.jpg",
       price: "6000",
@@ -776,7 +776,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 62,
       name: "Poland",
       pic: "/images/poland.jpg",
       price: "4500",
@@ -787,7 +787,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 63,
       name: "Qatar",
       pic: "/images/qatar.jpg",
       price: "2400",
@@ -798,7 +798,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport", "Hotel Bookings from Discover Qatar"],
     },
     {
-      id: Math.random(),
+      id: 64,
       name: "Russia",
       pic: "/images/russia.jpg",
       price: "5600",
@@ -809,7 +809,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport", "Hotel bookings", "Flight Details"],
     },
     {
-      id: Math.random(),
+      id: 65,
       name: "Rwanda",
       pic: "/images/rwanda.jpg",
       price: "5300",
@@ -820,7 +820,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 68,
       name: "Saudi Arabia",
       pic: "/images/saudi-arabia.jpg",
       price: "11800",
@@ -851,7 +851,7 @@ function dateHelper(days) {
     //   date:new Date()
     // },
     {
-      id: Math.random(),
+      id: 69,
       name: "Singapore",
       pic: "/images/singapore.jpg",
       price: "3000",
@@ -868,7 +868,7 @@ function dateHelper(days) {
       ],
     },
     {
-      id: Math.random(),
+      id: 70,
       name: "Slovakia",
       pic: "/images/slovakia.jpg",
       price: "4500",
@@ -879,7 +879,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 71,
       name: "Slovenia",
       pic: "/images/slovenia.jpg",
       price: "4500",
@@ -897,7 +897,7 @@ function dateHelper(days) {
     //   date:new Date()
     // },
     {
-      id: Math.random(),
+      id: 72,
       name: "South Africa",
       pic: "/images/south-africa.jpg",
       price: "7100",
@@ -908,7 +908,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 73,
       name: "South Korea",
       pic: "/images/south-korea.jpg",
       price: "7100",
@@ -925,7 +925,7 @@ function dateHelper(days) {
       ],
     },
     {
-      id: Math.random(),
+      id: 74,
       name: "Spain",
       pic: "/images/spain.jpg",
       price: "5500",
@@ -936,7 +936,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 75,
       name: "Sri Lanka",
       pic: "/images/srilanka.jpeg",
       price: "2900",
@@ -961,7 +961,7 @@ function dateHelper(days) {
     //   date:new Date()
     // },
     {
-      id: Math.random(),
+      id: 76,
       name: "Sweden",
       pic: "/images/sweden.jpg",
       price: "4500",
@@ -972,7 +972,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 77,
       name: "Switzerland",
       pic: "/images/switzerland.jpg",
       price: "4500",
@@ -983,7 +983,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 78,
       name: "Taiwan",
       pic: "/images/taiwan.jpg",
       price: "2800",
@@ -994,7 +994,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport", "Flight Bookings"],
     },
     {
-      id: Math.random(),
+      id: 79,
       name: "Tajikistan",
       pic: "/images/tajikistan.jpg",
       price: "6800",
@@ -1005,7 +1005,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 80,
       name: "Tanzania",
       pic: "/images/tanzania.jpg",
       price: "5600",
@@ -1023,7 +1023,7 @@ function dateHelper(days) {
     //   date:new Date()
     // },
     {
-      id: Math.random(),
+      id: 81,
       name: "Turkiye",
       pic: "/images/turkiye.jpg",
       price: "9300",
@@ -1034,7 +1034,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport", "Bank Statement", "Employement Documents"],
     },
     {
-      id: Math.random(),
+      id: 82,
       name: "UAE",
       pic: "/images/UAE.jpg",
       price: "8400",
@@ -1045,7 +1045,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 83,
       name: "United Kingdom",
       pic: "/images/uk.jpg",
       price: "19000",
@@ -1062,7 +1062,7 @@ function dateHelper(days) {
       ],
     },
     {
-      id: Math.random(),
+      id:84,
       name: "Uruguay",
       pic: "/images/uruguay.jpg",
       price: "5200",
@@ -1073,7 +1073,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 85,
       name: "United States",
       pic: "/images/us.jpg",
       price: "31500",
@@ -1084,7 +1084,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 86,
       name: "Uzbekistan",
       pic: "/images/uzbekistan.jpg",
       price: "2700",
@@ -1095,7 +1095,7 @@ function dateHelper(days) {
       docs: ["Photo", "Passport"],
     },
     {
-      id: Math.random(),
+      id: 87,
       name: "Vietnam",
       pic: "/images/vietnam.jpg",
       price: "2850",

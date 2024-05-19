@@ -36,7 +36,7 @@ const TravelerDetails = () => {
     passportNo: "",
     expectedDate: "",
   });
-  console.log(info);
+  // console.log(info);
 
   // datepicker onchange
   const DobHandlechange = (date, index) => {

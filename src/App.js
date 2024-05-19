@@ -4,7 +4,7 @@ import Home from './Component/Home/Home';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import VisaApplyPage from './Component/VisaApply/VisaApplyPage';
 // import LoginForm from './Component/StartApplication/LoginForm';
-import TravelerDetails from './Component/StartApplication/TravelerDetails';
+import TravelerDetails from './Component/StartApplication/travelerDetail/TravelerDetails.jsx';
 import Document from './Component/StartApplication/SubmitDocument/Document';
 
 function App() {

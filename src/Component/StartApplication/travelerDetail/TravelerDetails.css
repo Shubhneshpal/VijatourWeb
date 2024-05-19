@@ -92,14 +92,14 @@
 .btn-outline-white {
     border: none !important;
     color: black!important ;
-    background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+    background-color: cornsilk;
 }
 
 
 .Amount_card {
     width: 100%;
-    background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
     height: 93%;
+    background-color: snow;
 }
 .addPerson svg{
     font-size: 19px;
@@ -138,10 +138,10 @@
 }
 .Suggest_animate p {
     font-size: 17px;
-    color: #2000ff;
+    color: black;
     font-weight: 500;
-    animation: slideIn 5s ease-in-out infinite alternate;
-    -webkit-animation: slideIn 5s ease-in-out infinite alternate;
+    animation: slideIn 2s ease-in-out infinite alternate;
+    -webkit-animation: slideIn 2s ease-in-out infinite alternate;
 }
 .h4text h4{
     text-align: center;
